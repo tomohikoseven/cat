@@ -1,0 +1,16 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+BUFFER_SIZE	cat.c	9;"	d	file:
+_cat	cat.c	/^_cat( int argc, char *argv[] )$/;"	f	file:
+_close	cat.c	/^_close( int fd, const char *path )$/;"	f	file:
+_open	cat.c	/^_open(  const char  *path,$/;"	f	file:
+_readWrite	cat.c	/^_readWrite( int fd,$/;"	f	file:
+_write	cat.c	/^_write( unsigned char *buf,$/;"	f	file:
+die	cat.c	/^die( const char *s )$/;"	f	file:
+do_cat	cat.c	/^do_cat( const char *path )$/;"	f	file:
+main	cat.c	/^main(   int     argc,$/;"	f
+usage	cat.c	/^usage( int argc, char *argv[] )$/;"	f	file:
